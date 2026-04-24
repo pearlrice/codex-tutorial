@@ -1,0 +1,6 @@
+# 本地配置
+.claude/
+.obsidian/
+
+# 临时生成目录
+chapters-notion/
